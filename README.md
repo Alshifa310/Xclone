@@ -13,6 +13,11 @@ Welcome to the Twitter Clone repository! This project is a simple yet effective 
 - **Tailwind CSS**: A huge thank you to the Tailwind CSS team for creating such an amazing CSS framework.
 - **Twitter**: This project is inspired by the Twitter web interface. Please note that this is a clone for educational purposes only.
 
+## Screenshot
+
+![Twitter Clone Screenshot](img/Screenshot%202024-05-25%20140412.png)
+
 We hope you find this project helpful for learning and experimenting with HTML and Tailwind CSS. Happy coding!
+
 
 
